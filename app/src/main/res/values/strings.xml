@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="action_settings">Settings</string>
+    <string name="apiKey" translatable="false">jF0hXbPkmAVmXn16A2Q08aLPOMhwU4bc</string>
+</resources>
